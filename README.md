@@ -8,7 +8,6 @@
    ```bash
    python3 --version
    ```
-   нет? ставь: ubuntu (`sudo apt install python3 python3-pip`), macos (`brew install python`), windows ([python.org](https://www.python.org/downloads/)).
 
 2. виртуальное окружение:
    ```bash
